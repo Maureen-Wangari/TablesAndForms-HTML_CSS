@@ -1,7 +1,7 @@
 #form{
     border: 1px solid rgb(1, 8, 9);
         margin: 0 auto;
-        width: 87%;
+        width: 45%;
         padding: 20px;
         border-color: black;
 }
@@ -9,7 +9,7 @@
 #Form{
     border: 1px solid black;
         margin: 0 auto;
-        width: 75%;
+        width: 40%;
         color: rgb(1, 20, 24);
         padding: 40px;
 }
@@ -19,7 +19,7 @@
     border-radius: 5px;
     color: black;
     border: solid 1px;
-    width: 60%;
+    width: 40%;
     }
 
     button{
